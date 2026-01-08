@@ -31,7 +31,7 @@ public class Problema2 {
         String viviendas[] = new String[10];
         String nombre;
         for (int i = 0; i < viviendas.length; i++) {
-            System.out.printf("Ingrese el nombre o no. de la vivienda %s", i + 1);
+            System.out.printf("Ingrese el nombre o no. de la vivienda %s:\n", i + 1);
             nombre = entrada.nextLine();
             viviendas[i] = nombre;
         }
@@ -45,7 +45,7 @@ public class Problema2 {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 12; j++) {
                 System.out.printf("Ingrese el consumo electrico de la vivienda "
-                        + "%s en el mes %s", nombres[i], j + 1);
+                        + "%s en el mes %s:\n", nombres[i], j + 1);
                 consumo = entrada.nextDouble();
                 consumoMes[i][j] = consumo;
             }
