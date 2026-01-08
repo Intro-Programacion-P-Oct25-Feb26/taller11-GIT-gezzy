@@ -1,0 +1,6 @@
+Para resolver el problema, dentro del metodo principal en donde declarare y
+otorgare valores a los arreglos que seran los operadores de mi matriz resultante.
+Dicha matriz sera construida por una funcion a la que le enviare como argumentos
+las dos matrices creadas dentro del metodo principal y cuando devuelva el valor
+que sera la matriz resultante, dentro del metodo principal hare un ciclo for para
+imprimir dicha matriz.

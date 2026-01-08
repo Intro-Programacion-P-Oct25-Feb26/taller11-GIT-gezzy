@@ -1,0 +1,5 @@
+No encontre mayor dificultad a la hoira de codificar el problema ya que me
+resulto similar a uno de los ejercicios planteados en clase para tratar el
+tema de funciones y procedimientos. El unico inconveniente que tuvefue una 
+ligera confusion ya que estuve a punto de crear un procedimiento para presentar
+la matriz resultante en pantalla, cosa que el ejercicio formalmente nunca pide.
