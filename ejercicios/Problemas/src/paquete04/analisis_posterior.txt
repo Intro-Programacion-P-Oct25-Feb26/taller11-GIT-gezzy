@@ -1,0 +1,3 @@
+No tuve mayor inconveniente dentro de la resolucion de los problemas, unicamnte
+encontre dificultades a la hora de importar el Locale dentro del programa ya que
+cuando probe el codigo puse unos valores decimales con punto y me dio error.

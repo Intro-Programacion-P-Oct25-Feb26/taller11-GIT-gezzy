@@ -1,0 +1,5 @@
+Para resolver el problema encontre simulitudes con el Problema3, en donde
+habia que crear tres procedimientos, en este caso serian unicamente dos y los
+datos del usuario los pediria dentro del bloque condicional en el metodo 
+pincipal para luego realizar los calculos necesarios pidiendo el resto de datos
+en cada procedimiento y presentado la informacion dentro de los mismos.
