@@ -1,0 +1,5 @@
+Para la resolucion del Problema1 he decidido implementar dentro del nuevo metodo 
+imprimirDatos, dos ciclos "for" para recorrer cada uno de los valores del 
+arreglo  por filas y columnas. Dentro del ciclo que recorre las filas podria
+usar un condicional simple para luego almacenar en una cadena acumuladora todos 
+los valores pares del arreglo para luego presentarlos en pantalla.

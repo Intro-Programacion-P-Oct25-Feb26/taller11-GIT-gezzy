@@ -1,0 +1,3 @@
+El problema no me parecio complicado en su totalidad, aun asi cometi el error
+de no rellenar correctamente los parametros del segundo ciclo for generando asi
+un error que el compilador detecto y que leyendolo pude corregir.

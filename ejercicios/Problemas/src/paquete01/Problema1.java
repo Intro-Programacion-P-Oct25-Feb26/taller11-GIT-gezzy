@@ -19,8 +19,17 @@ public class Problema1 {
         imprimirDatos(informacion);
     }
 
-    public static void imprimirDatos(int[][] datos) {
-
+    public static void imprimirDatos(int datos[][]) {
+        String mensaje = "";
+        int valor;
+        for (int i = 0; i < datos.length; i++) {
+            for (int c = 0; c < datos.length; c++) {
+                valor = datos[i][c];
+                if (valor % 2 == 0) {
+                    mensaje = String.format("%s\t%s", mensaje, valor);
+                }
+            }
+        }
+        System.out.printf("Los valores pares del arreglo son: %s\n", mensaje);
     }
-
 }
