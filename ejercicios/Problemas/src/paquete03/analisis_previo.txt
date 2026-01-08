@@ -1,0 +1,4 @@
+Para la resolucion del problema unicamente deberia crear una variable para
+typear la opcion que desee el usuario acompañada de un bloque condicional por
+si escoge una opcion fuera de los parametros dados. Luego dello solo invocaria
+a cada metodo (procedmiento), en funcion de la opcion elegida por el usuario.

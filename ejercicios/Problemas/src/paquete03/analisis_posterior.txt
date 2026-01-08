@@ -1,0 +1,6 @@
+Dentro del desarrollo de la problematica no encontre mayor inconveniente,
+simplemente al inicio cometi el erro de crear una variable de reporte en el
+metodo principal y a la misma le otorgaba el "valor" de cada metodo escogido,
+cosa que estaba mal pues la problematica pide procedimientos, no funciones
+y yo queria devolver un valo al hacer eso. 
+Finalmente lo corregi y el programa funciono con normalidad.
