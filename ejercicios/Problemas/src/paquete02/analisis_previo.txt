@@ -1,0 +1,5 @@
+Para la resolucion del problema se necesitan crear 4 metodos (sin contar el
+principal) y luego de ello, dentro del metodo principal crear los arreglos
+que se enviar a cada uno de los metodos para que los rellene y luego enviar
+esos arreglos al metodo que presentara la informacion en pantalla 
+(procedimiento).
