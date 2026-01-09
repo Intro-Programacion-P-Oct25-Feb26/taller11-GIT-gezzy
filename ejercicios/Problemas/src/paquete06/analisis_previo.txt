@@ -1,0 +1,5 @@
+Para resolver el problema debo conocer como calcular la desviacion estandar de
+un arreglo, una vez ya identifique como simplemente creare dentro del metodo
+principal un arreglo (ya dado en el ejercicio) y dos variables, una para la
+media y otra para la desviacion, que tendran el valor que se obtenga de la
+invocacion de sus respectivas funciones.

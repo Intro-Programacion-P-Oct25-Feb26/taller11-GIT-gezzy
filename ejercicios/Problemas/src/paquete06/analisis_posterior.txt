@@ -1,0 +1,4 @@
+No tuve muchos problemas a la hora de resolver el problema aunque admito que
+olvide el nombre de la funcion que saca la raiz cuadrada de un numero. Tambien
+pude aprender como encontrar la desviacion tipica de un arreglo o conjunto de
+datos.
