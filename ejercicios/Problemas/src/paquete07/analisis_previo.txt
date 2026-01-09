@@ -1,0 +1,9 @@
+Para resolver el ejercicio considrare que el metodo principal no hara nada mas
+que unicamente invocar y llamar metodos fuera del mismo, por lo tanto todas
+las operaciones relacionadas a la codificacion de la problematica se daran
+dentro de sus respectivos metodos pero NUNCA dentro del metodo principal.
+Creare un metodo para llenar lamatriz ingresando valores por teclado y otro que
+recibira dicha matriz (ya recibida dentro del metodo principal por otra variable 
+de tipo arreglo de cadenas) e la cual comparare cada posicion del arreglo que
+tenga de 4 a 5 variables tomando el Ejemplo6 del Proyecto "Ejemplos02" de la
+carpeta clonada.

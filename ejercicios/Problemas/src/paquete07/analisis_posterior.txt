@@ -1,0 +1,4 @@
+No tuve mayor dificultad al resolver el problema. Aprendi a comparar los
+caracteres de una cadena. Tuve dificultad momentos antes de concluir el programa
+pues no sabia que hacer en caso de que ninguno de los valores ingresados
+conteuviese 4 o 5 caracteres pero lo soluciuone con un contador.
